@@ -1,0 +1,21 @@
+# Python
+*.py[cod]
+*.env
+*.log
+*.db
+*.sqlite
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Output files
+outputs/
+temp/
+*.pdf
+*.png
+*.jpg
+
+# VSCode
+.vscode/
